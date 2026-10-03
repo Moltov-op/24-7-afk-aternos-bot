@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Nate_Higgerson",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Crowned_SMP.aternos.me",
